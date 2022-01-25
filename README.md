@@ -13,3 +13,12 @@ Espresso is targeted at developers, who believe that automated testing is an int
 ## Source
 All the information about Espresso is taken from the [official site](https://developer.android.com/training/testing/espresso/index.html) for teaching users in a more relative way!
 
+## Additional resources
+For more information about using Espresso in Android tests, consult the following resources.
+
+### Samples
+- [Espresso Code Samples](https://github.com/googlesamples/android-testing): It includes a full selection of Espresso samples.
+- [BasicSample](https://github.com/android/testing-samples/tree/main/ui/espresso/BasicSample): Basic Espresso sample.
+- [Cheat sheet](https://android.github.io/android-test/downloads/espresso-cheat-sheet-2.1.0.pdf): Get a quick reference of some instances of Espresso!
+- [(more...)](https://developer.android.com/training/testing/espresso/additional-resources#samples)
+
