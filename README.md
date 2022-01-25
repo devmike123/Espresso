@@ -1,4 +1,6 @@
 # Espresso
+[![Greetings](https://github.com/android-for-devs/Espresso/actions/workflows/greetings.yml/badge.svg?branch=DevMike123-patch-1&event=pull_request)](https://github.com/android-for-devs/Espresso/actions/workflows/greetings.yml)
+
 Use Espresso to write concise, beautiful, and reliable Android UI tests.
 <img src = "./src/drawable/espresso.png">
 
